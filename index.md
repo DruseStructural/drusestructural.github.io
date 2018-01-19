@@ -6,14 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Atto and Femto
 
-Chem Rev. 2017 Aug 23;117(16):10760-10825. doi: 10.1021/acs.chemrev.6b00453. Epub 2017 May 10. 
 [Attosecond Electron Dynamics in Molecules](https://www.ncbi.nlm.nih.gov/pubmed/28488433). 
 Nisoli M, Decleva P, Calegari F, Palacios A, Martín F.
-
-
-
-
-
+Chem Rev. 2017 Aug 23;117(16):10760-10825. doi: 10.1021/acs.chemrev.6b00453. Epub 2017 May 10. 
 
 Faraday Discuss. 2016 Dec 16;194:15-39. doi: 10.1039/c6fd00174b.
 Attosecond science in atomic, molecular, and condensed matter physics.
