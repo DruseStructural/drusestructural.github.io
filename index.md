@@ -15,7 +15,13 @@ Nisoli M, Decleva P, Calegari F, Palacios A, Martín F.
 
 
 
-For more details see [Link](https://www.ncbi.nlm.nih.gov/pubmed/28488433).
+Faraday Discuss. 2016 Dec 16;194:15-39. doi: 10.1039/c6fd00174b.
+Attosecond science in atomic, molecular, and condensed matter physics.
+Leone SR, Neumark DM.
+
+Faraday Discuss. 2016 Dec 16;194:15-39. doi: 10.1039/c6fd00174b.
+[Attosecond science in atomic, molecular, and condensed matter physics.](https://www.ncbi.nlm.nih.gov/pubmed/27711856).
+Leone SR, Neumark DM. 
 
 ### Neutron
 
