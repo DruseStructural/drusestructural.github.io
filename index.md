@@ -29,6 +29,8 @@ Nisoli M, Decleva P, Calegari F, Palacios A, Martín F.
 
 **Bold** and _Italic_ and `Code` text
 
+For more details see [GitHub Flavored Markdown](https://www.ncbi.nlm.nih.gov/pubmed/28488433).
+
 [Link](https://www.ncbi.nlm.nih.gov/pubmed/28488433) and ![Image](src)
 ```
 
