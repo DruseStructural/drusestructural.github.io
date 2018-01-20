@@ -1,6 +1,6 @@
 #
 
-Welcome to [Druse Structural](https://drusestructural.github.io/) 
+[Druse Structural](https://drusestructural.github.io/) 
 
 ### Atto and Femto
 
