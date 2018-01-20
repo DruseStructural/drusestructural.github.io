@@ -4,9 +4,8 @@
 
 ### Atto and Femto
 
-[Attosecond Electron Dynamics in Molecules](https://www.ncbi.nlm.nih.gov/pubmed/28488433). 
-Nisoli M, Decleva P, Calegari F, Palacios A, Martín F.
-_Chem Rev._ 2017 Aug 23;117(16):10760-10825.
+
+Nisoli M, Decleva P, Calegari F, Palacios A, Martín F. [Attosecond Electron Dynamics in Molecules](https://www.ncbi.nlm.nih.gov/pubmed/28488433)._Chem Rev._ 2017 Aug 23;117(16):10760-10825.
 
 [Attosecond science in atomic, molecular, and condensed matter physics](https://www.ncbi.nlm.nih.gov/pubmed/27711856).
 Leone SR, Neumark DM.
