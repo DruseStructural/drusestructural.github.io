@@ -8,13 +8,13 @@
 Nisoli M, Decleva P, Calegari F, Palacios A, Martín F.
 Chem Rev. 2017 Aug 23;117(16):10760-10825. doi: 10.1021/acs.chemrev.6b00453. Epub 2017 May 10. 
 
-Faraday Discuss. 2016 Dec 16;194:15-39. doi: 10.1039/c6fd00174b.
-Attosecond science in atomic, molecular, and condensed matter physics.
+[Attosecond science in atomic, molecular, and condensed matter physics](https://www.ncbi.nlm.nih.gov/pubmed/27711856).
 Leone SR, Neumark DM.
-
 Faraday Discuss. 2016 Dec 16;194:15-39. doi: 10.1039/c6fd00174b.
-[Attosecond science in atomic, molecular, and condensed matter physics.](https://www.ncbi.nlm.nih.gov/pubmed/27711856).
-Leone SR, Neumark DM. 
+
+[Spectral Interferometry with Electron Microscopes](https://www.ncbi.nlm.nih.gov/pubmed/27649932).
+Talebi N.
+Sci Rep. 2016 Sep 21;6:33874. doi: 10.1038/srep33874.
 
 ### Neutron
 
