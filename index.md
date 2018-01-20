@@ -6,15 +6,15 @@
 
 [Attosecond Electron Dynamics in Molecules](https://www.ncbi.nlm.nih.gov/pubmed/28488433). 
 Nisoli M, Decleva P, Calegari F, Palacios A, Martín F.
-Chem Rev. 2017 Aug 23;117(16):10760-10825.
+_Chem Rev._ 2017 Aug 23;117(16):10760-10825.
 
 [Attosecond science in atomic, molecular, and condensed matter physics](https://www.ncbi.nlm.nih.gov/pubmed/27711856).
 Leone SR, Neumark DM.
-Faraday Discuss. 2016 Dec 16;194:15-39.
+_Faraday Discuss._ 2016 Dec 16;194:15-39.
 
 [Spectral Interferometry with Electron Microscopes](https://www.ncbi.nlm.nih.gov/pubmed/27649932).
 Talebi N.
-Sci Rep. 2016 Sep 21;6:33874.
+_Sci Rep._ 2016 Sep 21;6:33874.
 
 ### Neutron
 
