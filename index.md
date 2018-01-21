@@ -2,7 +2,7 @@
 
 [Druse (Structural)](https://drusestructural.github.io/) 
 
-### Atto and Femto
+### Attosecond
 
 
 Nisoli M, Decleva P, Calegari F, Palacios A, Martín F. 
@@ -56,7 +56,9 @@ _Nature._ 2010 Aug 5;466(7307):739-43.
 
 ### EM
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Real-time observation of valence electron motion](https://www.ncbi.nlm.nih.gov/pubmed/20686571).
+Goulielmakis E, Loh ZH, Wirth A, Santra R, Rohringer N, Yakovlev VS, Zherebtsov S, Pfeifer T, Azzeer AM, Kling MF, Leone SR, Krausz F.
+_Nature._ 2010 Aug 5;466(7307):739-43.
 
 ```markdown
 Syntax highlighted code block
