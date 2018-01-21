@@ -43,47 +43,16 @@ _Proc Natl Acad Sci U S A._ 2014 Mar 18;111(11):3973-8.
 
 Hensley CJ1, Yang J, Centurion M.
 [Imaging of isolated molecules with ultrafast electron pulses](https://www.ncbi.nlm.nih.gov/pubmed/23030087).
-Phys Rev Lett. 2012 Sep 28;109(13):133202.
+_Phys Rev Lett._ 2012 Sep 28;109(13):133202.
 
 Gallmann L, Cirelli C, Keller U.
 [Attosecond science: recent highlights and future trends](https://www.ncbi.nlm.nih.gov/pubmed/22404594).
-Annu Rev Phys Chem. 2012;63:447-69.
+_Annu Rev Phys Chem._ 2012;63:447-69.
 
 [Real-time observation of valence electron motion](https://www.ncbi.nlm.nih.gov/pubmed/20686571).
 Goulielmakis E, Loh ZH, Wirth A, Santra R, Rohringer N, Yakovlev VS, Zherebtsov S, Pfeifer T, Azzeer AM, Kling MF, Leone SR, Krausz F.
-Nature. 2010 Aug 5;466(7307):739-43.
+_Nature._ 2010 Aug 5;466(7307):739-43.
 
-
-
-Annu Rev Phys Chem. 2012;63:447-69. doi: 10.1146/annurev-physchem-032511-143702. Epub 2012 Jan 30.
-Attosecond science: recent highlights and future trends.
-Gallmann L1, Cirelli C, Keller U.
-
-### Neutron
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Hensley CJ1, Yang J, Centurion M.
-[Imaging of isolated molecules with ultrafast electron pulses](https://www.ncbi.nlm.nih.gov/pubmed/23030087).
-Phys Rev Lett. 2012 Sep 28;109(13):133202
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### EM
 
