@@ -1,6 +1,6 @@
 ##
 
-[Druse Structural](https://drusestructural.github.io/) 
+[Druse (Structural)](https://drusestructural.github.io/) 
 
 ### Atto and Femto
 
@@ -35,18 +35,15 @@ _Struct Dyn._ 2014 Jun 24;1(3):034303.
 
 Vrakking MJ.
 [Attosecond imaging](https://www.ncbi.nlm.nih.gov/pubmed/24398785).
-Phys Chem Chem Phys. 2014 Feb 21;16(7):2775-89.
+_Phys Chem Chem Phys._ 2014 Feb 21;16(7):2775-89.
 
+Palacios A, González-Castrillo A, Martín F.
+[Molecular interferometer to decode attosecond electron-nuclear dynamics](https://www.ncbi.nlm.nih.gov/pubmed/24591647).
+_Proc Natl Acad Sci U S A._ 2014 Mar 18;111(11):3973-8.
 
-Proc Natl Acad Sci U S A. 2014 Mar 18;111(11):3973-8. doi: 10.1073/pnas.1316762111. Epub 2014 Mar 3.
-Molecular interferometer to decode attosecond electron-nuclear dynamics.
-Palacios A1, González-Castrillo A, Martín F.
-https://www.ncbi.nlm.nih.gov/pubmed/24591647
-
-Phys Rev Lett. 2012 Sep 28;109(13):133202. Epub 2012 Sep 28.
-Imaging of isolated molecules with ultrafast electron pulses.
 Hensley CJ1, Yang J, Centurion M.
-https://www.ncbi.nlm.nih.gov/pubmed/23030087
+[Imaging of isolated molecules with ultrafast electron pulses](https://www.ncbi.nlm.nih.gov/pubmed/23030087).
+Phys Rev Lett. 2012 Sep 28;109(13):133202.
 
 
 
