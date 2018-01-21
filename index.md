@@ -45,7 +45,19 @@ Hensley CJ1, Yang J, Centurion M.
 [Imaging of isolated molecules with ultrafast electron pulses](https://www.ncbi.nlm.nih.gov/pubmed/23030087).
 Phys Rev Lett. 2012 Sep 28;109(13):133202.
 
+Gallmann L, Cirelli C, Keller U.
+[Attosecond science: recent highlights and future trends](https://www.ncbi.nlm.nih.gov/pubmed/22404594).
+Annu Rev Phys Chem. 2012;63:447-69.
 
+[Real-time observation of valence electron motion](https://www.ncbi.nlm.nih.gov/pubmed/20686571).
+Goulielmakis E, Loh ZH, Wirth A, Santra R, Rohringer N, Yakovlev VS, Zherebtsov S, Pfeifer T, Azzeer AM, Kling MF, Leone SR, Krausz F.
+Nature. 2010 Aug 5;466(7307):739-43.
+
+
+
+Annu Rev Phys Chem. 2012;63:447-69. doi: 10.1146/annurev-physchem-032511-143702. Epub 2012 Jan 30.
+Attosecond science: recent highlights and future trends.
+Gallmann L1, Cirelli C, Keller U.
 
 ### Neutron
 
